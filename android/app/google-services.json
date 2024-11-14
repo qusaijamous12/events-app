@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "822067748882",
+    "project_id": "eduevents-ce1b5",
+    "storage_bucket": "eduevents-ce1b5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822067748882:android:1806ffc311097d944b38cb",
+        "android_client_info": {
+          "package_name": "com.example.edu_events"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs0OBRsss9AKMBN64n5EXWYp1s0Wgg8lY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
